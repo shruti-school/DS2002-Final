@@ -1,0 +1,8002 @@
+[
+	{
+		"payment_id" : 1,
+		"customer_key" : 1,
+		"date_key" : 1,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 2,
+		"customer_key" : 1,
+		"date_key" : 2,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 3,
+		"customer_key" : 1,
+		"date_key" : 3,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 4,
+		"customer_key" : 1,
+		"date_key" : 4,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 5,
+		"customer_key" : 1,
+		"date_key" : 5,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 6,
+		"customer_key" : 1,
+		"date_key" : 6,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 7,
+		"customer_key" : 1,
+		"date_key" : 7,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 8,
+		"customer_key" : 1,
+		"date_key" : 8,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 9,
+		"customer_key" : 1,
+		"date_key" : 9,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 10,
+		"customer_key" : 1,
+		"date_key" : 10,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 11,
+		"customer_key" : 1,
+		"date_key" : 11,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 12,
+		"customer_key" : 1,
+		"date_key" : 12,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 13,
+		"customer_key" : 1,
+		"date_key" : 13,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 14,
+		"customer_key" : 1,
+		"date_key" : 14,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 15,
+		"customer_key" : 1,
+		"date_key" : 15,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 16,
+		"customer_key" : 1,
+		"date_key" : 16,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 17,
+		"customer_key" : 1,
+		"date_key" : 17,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 18,
+		"customer_key" : 1,
+		"date_key" : 18,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 19,
+		"customer_key" : 1,
+		"date_key" : 19,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 20,
+		"customer_key" : 1,
+		"date_key" : 20,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 21,
+		"customer_key" : 1,
+		"date_key" : 21,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 22,
+		"customer_key" : 1,
+		"date_key" : 22,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 23,
+		"customer_key" : 1,
+		"date_key" : 23,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 24,
+		"customer_key" : 1,
+		"date_key" : 24,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 25,
+		"customer_key" : 1,
+		"date_key" : 25,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 26,
+		"customer_key" : 1,
+		"date_key" : 26,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 27,
+		"customer_key" : 1,
+		"date_key" : 27,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 28,
+		"customer_key" : 1,
+		"date_key" : 28,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 29,
+		"customer_key" : 1,
+		"date_key" : 29,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 30,
+		"customer_key" : 1,
+		"date_key" : 30,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 31,
+		"customer_key" : 1,
+		"date_key" : 31,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 32,
+		"customer_key" : 1,
+		"date_key" : 32,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 33,
+		"customer_key" : 2,
+		"date_key" : 33,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 34,
+		"customer_key" : 2,
+		"date_key" : 34,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 35,
+		"customer_key" : 2,
+		"date_key" : 35,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 36,
+		"customer_key" : 2,
+		"date_key" : 36,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 37,
+		"customer_key" : 2,
+		"date_key" : 37,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 38,
+		"customer_key" : 2,
+		"date_key" : 38,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 39,
+		"customer_key" : 2,
+		"date_key" : 39,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 40,
+		"customer_key" : 2,
+		"date_key" : 40,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 41,
+		"customer_key" : 2,
+		"date_key" : 41,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 42,
+		"customer_key" : 2,
+		"date_key" : 42,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 43,
+		"customer_key" : 2,
+		"date_key" : 43,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 44,
+		"customer_key" : 2,
+		"date_key" : 44,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 45,
+		"customer_key" : 2,
+		"date_key" : 45,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 46,
+		"customer_key" : 2,
+		"date_key" : 46,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 47,
+		"customer_key" : 2,
+		"date_key" : 47,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 48,
+		"customer_key" : 2,
+		"date_key" : 48,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 49,
+		"customer_key" : 2,
+		"date_key" : 49,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 50,
+		"customer_key" : 2,
+		"date_key" : 50,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 51,
+		"customer_key" : 2,
+		"date_key" : 51,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 52,
+		"customer_key" : 2,
+		"date_key" : 52,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 53,
+		"customer_key" : 2,
+		"date_key" : 53,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 54,
+		"customer_key" : 2,
+		"date_key" : 54,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 55,
+		"customer_key" : 2,
+		"date_key" : 55,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 56,
+		"customer_key" : 2,
+		"date_key" : 56,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 57,
+		"customer_key" : 2,
+		"date_key" : 57,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 58,
+		"customer_key" : 2,
+		"date_key" : 58,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 59,
+		"customer_key" : 2,
+		"date_key" : 59,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 60,
+		"customer_key" : 3,
+		"date_key" : 60,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 61,
+		"customer_key" : 3,
+		"date_key" : 61,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 62,
+		"customer_key" : 3,
+		"date_key" : 62,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 63,
+		"customer_key" : 3,
+		"date_key" : 63,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 64,
+		"customer_key" : 3,
+		"date_key" : 64,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 65,
+		"customer_key" : 3,
+		"date_key" : 65,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 66,
+		"customer_key" : 3,
+		"date_key" : 66,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 67,
+		"customer_key" : 3,
+		"date_key" : 67,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 68,
+		"customer_key" : 3,
+		"date_key" : 68,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 69,
+		"customer_key" : 3,
+		"date_key" : 69,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 70,
+		"customer_key" : 3,
+		"date_key" : 70,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 71,
+		"customer_key" : 3,
+		"date_key" : 71,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 72,
+		"customer_key" : 3,
+		"date_key" : 72,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 73,
+		"customer_key" : 3,
+		"date_key" : 73,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 74,
+		"customer_key" : 3,
+		"date_key" : 74,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 75,
+		"customer_key" : 3,
+		"date_key" : 75,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 76,
+		"customer_key" : 3,
+		"date_key" : 76,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 77,
+		"customer_key" : 3,
+		"date_key" : 77,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 78,
+		"customer_key" : 3,
+		"date_key" : 78,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 79,
+		"customer_key" : 3,
+		"date_key" : 79,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 80,
+		"customer_key" : 3,
+		"date_key" : 80,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 81,
+		"customer_key" : 3,
+		"date_key" : 81,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 82,
+		"customer_key" : 3,
+		"date_key" : 82,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 83,
+		"customer_key" : 3,
+		"date_key" : 83,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 84,
+		"customer_key" : 3,
+		"date_key" : 84,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 85,
+		"customer_key" : 3,
+		"date_key" : 85,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 86,
+		"customer_key" : 4,
+		"date_key" : 86,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 87,
+		"customer_key" : 4,
+		"date_key" : 87,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 88,
+		"customer_key" : 4,
+		"date_key" : 88,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 89,
+		"customer_key" : 4,
+		"date_key" : 89,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 90,
+		"customer_key" : 4,
+		"date_key" : 90,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 91,
+		"customer_key" : 4,
+		"date_key" : 91,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 92,
+		"customer_key" : 4,
+		"date_key" : 92,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 93,
+		"customer_key" : 4,
+		"date_key" : 93,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 94,
+		"customer_key" : 4,
+		"date_key" : 94,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 95,
+		"customer_key" : 4,
+		"date_key" : 95,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 96,
+		"customer_key" : 4,
+		"date_key" : 96,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 97,
+		"customer_key" : 4,
+		"date_key" : 97,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 98,
+		"customer_key" : 4,
+		"date_key" : 98,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 99,
+		"customer_key" : 4,
+		"date_key" : 99,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 100,
+		"customer_key" : 4,
+		"date_key" : 100,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 101,
+		"customer_key" : 4,
+		"date_key" : 101,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 102,
+		"customer_key" : 4,
+		"date_key" : 102,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 103,
+		"customer_key" : 4,
+		"date_key" : 103,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 104,
+		"customer_key" : 4,
+		"date_key" : 104,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 105,
+		"customer_key" : 4,
+		"date_key" : 105,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 106,
+		"customer_key" : 4,
+		"date_key" : 106,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 107,
+		"customer_key" : 4,
+		"date_key" : 107,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 108,
+		"customer_key" : 5,
+		"date_key" : 108,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 109,
+		"customer_key" : 5,
+		"date_key" : 109,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 110,
+		"customer_key" : 5,
+		"date_key" : 110,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 111,
+		"customer_key" : 5,
+		"date_key" : 111,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 112,
+		"customer_key" : 5,
+		"date_key" : 112,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 113,
+		"customer_key" : 5,
+		"date_key" : 113,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 114,
+		"customer_key" : 5,
+		"date_key" : 114,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 115,
+		"customer_key" : 5,
+		"date_key" : 115,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 116,
+		"customer_key" : 5,
+		"date_key" : 116,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 117,
+		"customer_key" : 5,
+		"date_key" : 117,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 118,
+		"customer_key" : 5,
+		"date_key" : 118,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 119,
+		"customer_key" : 5,
+		"date_key" : 119,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 120,
+		"customer_key" : 5,
+		"date_key" : 120,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 121,
+		"customer_key" : 5,
+		"date_key" : 121,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 122,
+		"customer_key" : 5,
+		"date_key" : 122,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 123,
+		"customer_key" : 5,
+		"date_key" : 123,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 124,
+		"customer_key" : 5,
+		"date_key" : 124,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 125,
+		"customer_key" : 5,
+		"date_key" : 125,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 126,
+		"customer_key" : 5,
+		"date_key" : 126,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 127,
+		"customer_key" : 5,
+		"date_key" : 127,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 128,
+		"customer_key" : 5,
+		"date_key" : 128,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 129,
+		"customer_key" : 5,
+		"date_key" : 129,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 130,
+		"customer_key" : 5,
+		"date_key" : 130,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 131,
+		"customer_key" : 5,
+		"date_key" : 131,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 132,
+		"customer_key" : 5,
+		"date_key" : 132,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 133,
+		"customer_key" : 5,
+		"date_key" : 133,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 134,
+		"customer_key" : 5,
+		"date_key" : 134,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 135,
+		"customer_key" : 5,
+		"date_key" : 135,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 136,
+		"customer_key" : 5,
+		"date_key" : 136,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 137,
+		"customer_key" : 5,
+		"date_key" : 137,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 138,
+		"customer_key" : 5,
+		"date_key" : 138,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 139,
+		"customer_key" : 5,
+		"date_key" : 139,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 140,
+		"customer_key" : 5,
+		"date_key" : 140,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 141,
+		"customer_key" : 5,
+		"date_key" : 141,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 142,
+		"customer_key" : 5,
+		"date_key" : 142,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 143,
+		"customer_key" : 5,
+		"date_key" : 143,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 144,
+		"customer_key" : 5,
+		"date_key" : 144,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 145,
+		"customer_key" : 5,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 146,
+		"customer_key" : 6,
+		"date_key" : 146,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 147,
+		"customer_key" : 6,
+		"date_key" : 147,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 148,
+		"customer_key" : 6,
+		"date_key" : 148,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 149,
+		"customer_key" : 6,
+		"date_key" : 149,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 150,
+		"customer_key" : 6,
+		"date_key" : 150,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 151,
+		"customer_key" : 6,
+		"date_key" : 151,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 152,
+		"customer_key" : 6,
+		"date_key" : 152,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 153,
+		"customer_key" : 6,
+		"date_key" : 153,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 154,
+		"customer_key" : 6,
+		"date_key" : 154,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 155,
+		"customer_key" : 6,
+		"date_key" : 155,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 156,
+		"customer_key" : 6,
+		"date_key" : 156,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 157,
+		"customer_key" : 6,
+		"date_key" : 157,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 158,
+		"customer_key" : 6,
+		"date_key" : 158,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 159,
+		"customer_key" : 6,
+		"date_key" : 159,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 160,
+		"customer_key" : 6,
+		"date_key" : 160,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 161,
+		"customer_key" : 6,
+		"date_key" : 161,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 162,
+		"customer_key" : 6,
+		"date_key" : 162,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 163,
+		"customer_key" : 6,
+		"date_key" : 163,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 164,
+		"customer_key" : 6,
+		"date_key" : 164,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 165,
+		"customer_key" : 6,
+		"date_key" : 165,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 166,
+		"customer_key" : 6,
+		"date_key" : 166,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 167,
+		"customer_key" : 6,
+		"date_key" : 167,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 168,
+		"customer_key" : 6,
+		"date_key" : 168,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 169,
+		"customer_key" : 6,
+		"date_key" : 169,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 170,
+		"customer_key" : 6,
+		"date_key" : 170,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 171,
+		"customer_key" : 6,
+		"date_key" : 171,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 172,
+		"customer_key" : 6,
+		"date_key" : 172,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 173,
+		"customer_key" : 6,
+		"date_key" : 173,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 174,
+		"customer_key" : 7,
+		"date_key" : 174,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 175,
+		"customer_key" : 7,
+		"date_key" : 175,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 176,
+		"customer_key" : 7,
+		"date_key" : 176,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 177,
+		"customer_key" : 7,
+		"date_key" : 177,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 178,
+		"customer_key" : 7,
+		"date_key" : 178,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 179,
+		"customer_key" : 7,
+		"date_key" : 179,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 180,
+		"customer_key" : 7,
+		"date_key" : 180,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 181,
+		"customer_key" : 7,
+		"date_key" : 181,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 182,
+		"customer_key" : 7,
+		"date_key" : 182,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 183,
+		"customer_key" : 7,
+		"date_key" : 183,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 184,
+		"customer_key" : 7,
+		"date_key" : 184,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 185,
+		"customer_key" : 7,
+		"date_key" : 185,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 186,
+		"customer_key" : 7,
+		"date_key" : 186,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 187,
+		"customer_key" : 7,
+		"date_key" : 187,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 188,
+		"customer_key" : 7,
+		"date_key" : 188,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 189,
+		"customer_key" : 7,
+		"date_key" : 189,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 190,
+		"customer_key" : 7,
+		"date_key" : 190,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 191,
+		"customer_key" : 7,
+		"date_key" : 191,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 192,
+		"customer_key" : 7,
+		"date_key" : 192,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 193,
+		"customer_key" : 7,
+		"date_key" : 193,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 194,
+		"customer_key" : 7,
+		"date_key" : 194,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 195,
+		"customer_key" : 7,
+		"date_key" : 195,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 196,
+		"customer_key" : 7,
+		"date_key" : 196,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 197,
+		"customer_key" : 7,
+		"date_key" : 197,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 198,
+		"customer_key" : 7,
+		"date_key" : 198,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 199,
+		"customer_key" : 7,
+		"date_key" : 199,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 200,
+		"customer_key" : 7,
+		"date_key" : 200,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 201,
+		"customer_key" : 7,
+		"date_key" : 201,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 202,
+		"customer_key" : 7,
+		"date_key" : 202,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 203,
+		"customer_key" : 7,
+		"date_key" : 203,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 204,
+		"customer_key" : 7,
+		"date_key" : 204,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 205,
+		"customer_key" : 7,
+		"date_key" : 205,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 206,
+		"customer_key" : 7,
+		"date_key" : 206,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 207,
+		"customer_key" : 8,
+		"date_key" : 207,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 208,
+		"customer_key" : 8,
+		"date_key" : 208,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 209,
+		"customer_key" : 8,
+		"date_key" : 209,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 210,
+		"customer_key" : 8,
+		"date_key" : 210,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 211,
+		"customer_key" : 8,
+		"date_key" : 211,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 212,
+		"customer_key" : 8,
+		"date_key" : 212,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 213,
+		"customer_key" : 8,
+		"date_key" : 213,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 214,
+		"customer_key" : 8,
+		"date_key" : 214,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 215,
+		"customer_key" : 8,
+		"date_key" : 215,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 216,
+		"customer_key" : 8,
+		"date_key" : 216,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 217,
+		"customer_key" : 8,
+		"date_key" : 217,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 218,
+		"customer_key" : 8,
+		"date_key" : 218,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 219,
+		"customer_key" : 8,
+		"date_key" : 219,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 220,
+		"customer_key" : 8,
+		"date_key" : 220,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 221,
+		"customer_key" : 8,
+		"date_key" : 221,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 222,
+		"customer_key" : 8,
+		"date_key" : 222,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 223,
+		"customer_key" : 8,
+		"date_key" : 223,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 224,
+		"customer_key" : 8,
+		"date_key" : 224,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 225,
+		"customer_key" : 8,
+		"date_key" : 225,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 226,
+		"customer_key" : 8,
+		"date_key" : 226,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 227,
+		"customer_key" : 8,
+		"date_key" : 227,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 228,
+		"customer_key" : 8,
+		"date_key" : 228,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 229,
+		"customer_key" : 8,
+		"date_key" : 229,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 230,
+		"customer_key" : 8,
+		"date_key" : 230,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 231,
+		"customer_key" : 9,
+		"date_key" : 231,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 232,
+		"customer_key" : 9,
+		"date_key" : 232,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 233,
+		"customer_key" : 9,
+		"date_key" : 233,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 234,
+		"customer_key" : 9,
+		"date_key" : 234,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 235,
+		"customer_key" : 9,
+		"date_key" : 235,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 236,
+		"customer_key" : 9,
+		"date_key" : 236,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 237,
+		"customer_key" : 9,
+		"date_key" : 237,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 238,
+		"customer_key" : 9,
+		"date_key" : 238,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 239,
+		"customer_key" : 9,
+		"date_key" : 239,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 240,
+		"customer_key" : 9,
+		"date_key" : 240,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 241,
+		"customer_key" : 9,
+		"date_key" : 241,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 242,
+		"customer_key" : 9,
+		"date_key" : 242,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 243,
+		"customer_key" : 9,
+		"date_key" : 243,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 244,
+		"customer_key" : 9,
+		"date_key" : 244,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 245,
+		"customer_key" : 9,
+		"date_key" : 245,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 246,
+		"customer_key" : 9,
+		"date_key" : 246,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 247,
+		"customer_key" : 9,
+		"date_key" : 247,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 248,
+		"customer_key" : 9,
+		"date_key" : 248,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 249,
+		"customer_key" : 9,
+		"date_key" : 249,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 250,
+		"customer_key" : 9,
+		"date_key" : 250,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 251,
+		"customer_key" : 9,
+		"date_key" : 251,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 252,
+		"customer_key" : 9,
+		"date_key" : 252,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 253,
+		"customer_key" : 9,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 254,
+		"customer_key" : 10,
+		"date_key" : 253,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 255,
+		"customer_key" : 10,
+		"date_key" : 254,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 256,
+		"customer_key" : 10,
+		"date_key" : 255,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 257,
+		"customer_key" : 10,
+		"date_key" : 256,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 258,
+		"customer_key" : 10,
+		"date_key" : 257,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 259,
+		"customer_key" : 10,
+		"date_key" : 258,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 260,
+		"customer_key" : 10,
+		"date_key" : 259,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 261,
+		"customer_key" : 10,
+		"date_key" : 260,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 262,
+		"customer_key" : 10,
+		"date_key" : 261,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 263,
+		"customer_key" : 10,
+		"date_key" : 262,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 264,
+		"customer_key" : 10,
+		"date_key" : 263,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 265,
+		"customer_key" : 10,
+		"date_key" : 264,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 266,
+		"customer_key" : 10,
+		"date_key" : 265,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 267,
+		"customer_key" : 10,
+		"date_key" : 266,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 268,
+		"customer_key" : 10,
+		"date_key" : 267,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 269,
+		"customer_key" : 10,
+		"date_key" : 268,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 270,
+		"customer_key" : 10,
+		"date_key" : 269,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 271,
+		"customer_key" : 10,
+		"date_key" : 270,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 272,
+		"customer_key" : 10,
+		"date_key" : 271,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 273,
+		"customer_key" : 10,
+		"date_key" : 272,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 274,
+		"customer_key" : 10,
+		"date_key" : 273,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 275,
+		"customer_key" : 10,
+		"date_key" : 274,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 276,
+		"customer_key" : 10,
+		"date_key" : 275,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 277,
+		"customer_key" : 10,
+		"date_key" : 276,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 278,
+		"customer_key" : 10,
+		"date_key" : 277,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 279,
+		"customer_key" : 11,
+		"date_key" : 278,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 280,
+		"customer_key" : 11,
+		"date_key" : 279,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 281,
+		"customer_key" : 11,
+		"date_key" : 280,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 282,
+		"customer_key" : 11,
+		"date_key" : 281,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 283,
+		"customer_key" : 11,
+		"date_key" : 282,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 284,
+		"customer_key" : 11,
+		"date_key" : 283,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 285,
+		"customer_key" : 11,
+		"date_key" : 284,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 286,
+		"customer_key" : 11,
+		"date_key" : 285,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 287,
+		"customer_key" : 11,
+		"date_key" : 286,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 288,
+		"customer_key" : 11,
+		"date_key" : 287,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 289,
+		"customer_key" : 11,
+		"date_key" : 288,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 290,
+		"customer_key" : 11,
+		"date_key" : 289,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 291,
+		"customer_key" : 11,
+		"date_key" : 290,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 292,
+		"customer_key" : 11,
+		"date_key" : 291,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 293,
+		"customer_key" : 11,
+		"date_key" : 292,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 294,
+		"customer_key" : 11,
+		"date_key" : 293,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 295,
+		"customer_key" : 11,
+		"date_key" : 294,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 296,
+		"customer_key" : 11,
+		"date_key" : 295,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 297,
+		"customer_key" : 11,
+		"date_key" : 296,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 298,
+		"customer_key" : 11,
+		"date_key" : 297,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 299,
+		"customer_key" : 11,
+		"date_key" : 298,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 300,
+		"customer_key" : 11,
+		"date_key" : 299,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 301,
+		"customer_key" : 11,
+		"date_key" : 300,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 302,
+		"customer_key" : 11,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 303,
+		"customer_key" : 12,
+		"date_key" : 301,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 304,
+		"customer_key" : 12,
+		"date_key" : 302,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 305,
+		"customer_key" : 12,
+		"date_key" : 303,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 306,
+		"customer_key" : 12,
+		"date_key" : 304,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 307,
+		"customer_key" : 12,
+		"date_key" : 305,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 308,
+		"customer_key" : 12,
+		"date_key" : 306,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 309,
+		"customer_key" : 12,
+		"date_key" : 307,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 310,
+		"customer_key" : 12,
+		"date_key" : 308,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 311,
+		"customer_key" : 12,
+		"date_key" : 309,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 312,
+		"customer_key" : 12,
+		"date_key" : 310,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 313,
+		"customer_key" : 12,
+		"date_key" : 311,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 314,
+		"customer_key" : 12,
+		"date_key" : 312,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 315,
+		"customer_key" : 12,
+		"date_key" : 313,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 316,
+		"customer_key" : 12,
+		"date_key" : 314,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 317,
+		"customer_key" : 12,
+		"date_key" : 315,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 318,
+		"customer_key" : 12,
+		"date_key" : 316,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 319,
+		"customer_key" : 12,
+		"date_key" : 317,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 320,
+		"customer_key" : 12,
+		"date_key" : 318,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 321,
+		"customer_key" : 12,
+		"date_key" : 319,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 322,
+		"customer_key" : 12,
+		"date_key" : 320,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 323,
+		"customer_key" : 12,
+		"date_key" : 321,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 324,
+		"customer_key" : 12,
+		"date_key" : 322,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 325,
+		"customer_key" : 12,
+		"date_key" : 323,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 326,
+		"customer_key" : 12,
+		"date_key" : 324,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 327,
+		"customer_key" : 12,
+		"date_key" : 325,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 328,
+		"customer_key" : 12,
+		"date_key" : 326,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 329,
+		"customer_key" : 12,
+		"date_key" : 327,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 330,
+		"customer_key" : 12,
+		"date_key" : 328,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 331,
+		"customer_key" : 13,
+		"date_key" : 329,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 332,
+		"customer_key" : 13,
+		"date_key" : 330,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 333,
+		"customer_key" : 13,
+		"date_key" : 331,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 334,
+		"customer_key" : 13,
+		"date_key" : 332,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 335,
+		"customer_key" : 13,
+		"date_key" : 333,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 336,
+		"customer_key" : 13,
+		"date_key" : 334,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 337,
+		"customer_key" : 13,
+		"date_key" : 335,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 338,
+		"customer_key" : 13,
+		"date_key" : 336,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 339,
+		"customer_key" : 13,
+		"date_key" : 337,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 340,
+		"customer_key" : 13,
+		"date_key" : 338,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 341,
+		"customer_key" : 13,
+		"date_key" : 339,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 342,
+		"customer_key" : 13,
+		"date_key" : 340,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 11.99
+	},
+	{
+		"payment_id" : 343,
+		"customer_key" : 13,
+		"date_key" : 341,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 344,
+		"customer_key" : 13,
+		"date_key" : 342,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 345,
+		"customer_key" : 13,
+		"date_key" : 343,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 346,
+		"customer_key" : 13,
+		"date_key" : 344,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 347,
+		"customer_key" : 13,
+		"date_key" : 345,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 348,
+		"customer_key" : 13,
+		"date_key" : 346,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 349,
+		"customer_key" : 13,
+		"date_key" : 347,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 350,
+		"customer_key" : 13,
+		"date_key" : 348,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 351,
+		"customer_key" : 13,
+		"date_key" : 349,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 352,
+		"customer_key" : 13,
+		"date_key" : 350,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 353,
+		"customer_key" : 13,
+		"date_key" : 351,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 354,
+		"customer_key" : 13,
+		"date_key" : 352,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 355,
+		"customer_key" : 13,
+		"date_key" : 353,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 356,
+		"customer_key" : 13,
+		"date_key" : 354,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 357,
+		"customer_key" : 13,
+		"date_key" : 355,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 358,
+		"customer_key" : 14,
+		"date_key" : 356,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 359,
+		"customer_key" : 14,
+		"date_key" : 357,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 360,
+		"customer_key" : 14,
+		"date_key" : 358,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 361,
+		"customer_key" : 14,
+		"date_key" : 359,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 362,
+		"customer_key" : 14,
+		"date_key" : 360,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 363,
+		"customer_key" : 14,
+		"date_key" : 361,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 364,
+		"customer_key" : 14,
+		"date_key" : 362,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 365,
+		"customer_key" : 14,
+		"date_key" : 363,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 366,
+		"customer_key" : 14,
+		"date_key" : 364,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 367,
+		"customer_key" : 14,
+		"date_key" : 365,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 368,
+		"customer_key" : 14,
+		"date_key" : 366,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 369,
+		"customer_key" : 14,
+		"date_key" : 367,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 370,
+		"customer_key" : 14,
+		"date_key" : 368,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 371,
+		"customer_key" : 14,
+		"date_key" : 369,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 372,
+		"customer_key" : 14,
+		"date_key" : 370,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 373,
+		"customer_key" : 14,
+		"date_key" : 371,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 374,
+		"customer_key" : 14,
+		"date_key" : 372,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 375,
+		"customer_key" : 14,
+		"date_key" : 373,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 376,
+		"customer_key" : 14,
+		"date_key" : 374,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 377,
+		"customer_key" : 14,
+		"date_key" : 375,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 378,
+		"customer_key" : 14,
+		"date_key" : 376,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 379,
+		"customer_key" : 14,
+		"date_key" : 377,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 380,
+		"customer_key" : 14,
+		"date_key" : 378,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 381,
+		"customer_key" : 14,
+		"date_key" : 379,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 382,
+		"customer_key" : 14,
+		"date_key" : 380,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 383,
+		"customer_key" : 14,
+		"date_key" : 381,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 384,
+		"customer_key" : 14,
+		"date_key" : 382,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 385,
+		"customer_key" : 14,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 386,
+		"customer_key" : 15,
+		"date_key" : 383,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 387,
+		"customer_key" : 15,
+		"date_key" : 384,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 388,
+		"customer_key" : 15,
+		"date_key" : 385,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 389,
+		"customer_key" : 15,
+		"date_key" : 386,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 390,
+		"customer_key" : 15,
+		"date_key" : 387,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 391,
+		"customer_key" : 15,
+		"date_key" : 388,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 392,
+		"customer_key" : 15,
+		"date_key" : 389,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 393,
+		"customer_key" : 15,
+		"date_key" : 390,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 394,
+		"customer_key" : 15,
+		"date_key" : 391,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 395,
+		"customer_key" : 15,
+		"date_key" : 392,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 396,
+		"customer_key" : 15,
+		"date_key" : 393,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 397,
+		"customer_key" : 15,
+		"date_key" : 394,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 398,
+		"customer_key" : 15,
+		"date_key" : 395,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 399,
+		"customer_key" : 15,
+		"date_key" : 396,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 400,
+		"customer_key" : 15,
+		"date_key" : 397,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 401,
+		"customer_key" : 15,
+		"date_key" : 398,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 402,
+		"customer_key" : 15,
+		"date_key" : 399,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 403,
+		"customer_key" : 15,
+		"date_key" : 400,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 404,
+		"customer_key" : 15,
+		"date_key" : 401,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 405,
+		"customer_key" : 15,
+		"date_key" : 402,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 406,
+		"customer_key" : 15,
+		"date_key" : 403,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 407,
+		"customer_key" : 15,
+		"date_key" : 404,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 408,
+		"customer_key" : 15,
+		"date_key" : 405,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 409,
+		"customer_key" : 15,
+		"date_key" : 406,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 410,
+		"customer_key" : 15,
+		"date_key" : 407,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 411,
+		"customer_key" : 15,
+		"date_key" : 408,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 412,
+		"customer_key" : 15,
+		"date_key" : 409,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 413,
+		"customer_key" : 15,
+		"date_key" : 410,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 414,
+		"customer_key" : 15,
+		"date_key" : 411,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 415,
+		"customer_key" : 15,
+		"date_key" : 412,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 416,
+		"customer_key" : 15,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.98
+	},
+	{
+		"payment_id" : 417,
+		"customer_key" : 15,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0
+	},
+	{
+		"payment_id" : 418,
+		"customer_key" : 16,
+		"date_key" : 413,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 419,
+		"customer_key" : 16,
+		"date_key" : 414,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 420,
+		"customer_key" : 16,
+		"date_key" : 415,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 421,
+		"customer_key" : 16,
+		"date_key" : 416,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 422,
+		"customer_key" : 16,
+		"date_key" : 417,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 423,
+		"customer_key" : 16,
+		"date_key" : 418,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 425,
+		"customer_key" : 16,
+		"date_key" : 419,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 426,
+		"customer_key" : 16,
+		"date_key" : 420,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 427,
+		"customer_key" : 16,
+		"date_key" : 421,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 428,
+		"customer_key" : 16,
+		"date_key" : 422,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 429,
+		"customer_key" : 16,
+		"date_key" : 423,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 430,
+		"customer_key" : 16,
+		"date_key" : 424,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 431,
+		"customer_key" : 16,
+		"date_key" : 425,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 432,
+		"customer_key" : 16,
+		"date_key" : 426,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 433,
+		"customer_key" : 16,
+		"date_key" : 427,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 434,
+		"customer_key" : 16,
+		"date_key" : 428,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 435,
+		"customer_key" : 16,
+		"date_key" : 429,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 436,
+		"customer_key" : 16,
+		"date_key" : 430,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 437,
+		"customer_key" : 16,
+		"date_key" : 431,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 438,
+		"customer_key" : 16,
+		"date_key" : 432,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 439,
+		"customer_key" : 16,
+		"date_key" : 433,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 440,
+		"customer_key" : 16,
+		"date_key" : 434,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 441,
+		"customer_key" : 16,
+		"date_key" : 435,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 442,
+		"customer_key" : 16,
+		"date_key" : 436,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 443,
+		"customer_key" : 16,
+		"date_key" : 437,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 444,
+		"customer_key" : 16,
+		"date_key" : 438,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 445,
+		"customer_key" : 16,
+		"date_key" : 439,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 446,
+		"customer_key" : 16,
+		"date_key" : 440,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 447,
+		"customer_key" : 17,
+		"date_key" : 441,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 448,
+		"customer_key" : 17,
+		"date_key" : 442,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 449,
+		"customer_key" : 17,
+		"date_key" : 443,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 450,
+		"customer_key" : 17,
+		"date_key" : 444,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 451,
+		"customer_key" : 17,
+		"date_key" : 445,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 452,
+		"customer_key" : 17,
+		"date_key" : 446,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 453,
+		"customer_key" : 17,
+		"date_key" : 447,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 454,
+		"customer_key" : 17,
+		"date_key" : 448,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 455,
+		"customer_key" : 17,
+		"date_key" : 449,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 456,
+		"customer_key" : 17,
+		"date_key" : 450,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 457,
+		"customer_key" : 17,
+		"date_key" : 451,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 458,
+		"customer_key" : 17,
+		"date_key" : 452,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 459,
+		"customer_key" : 17,
+		"date_key" : 453,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 460,
+		"customer_key" : 17,
+		"date_key" : 454,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 461,
+		"customer_key" : 17,
+		"date_key" : 455,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 462,
+		"customer_key" : 17,
+		"date_key" : 456,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 463,
+		"customer_key" : 17,
+		"date_key" : 457,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 464,
+		"customer_key" : 17,
+		"date_key" : 458,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 465,
+		"customer_key" : 17,
+		"date_key" : 459,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 466,
+		"customer_key" : 17,
+		"date_key" : 460,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 467,
+		"customer_key" : 17,
+		"date_key" : 461,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 468,
+		"customer_key" : 18,
+		"date_key" : 462,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 469,
+		"customer_key" : 18,
+		"date_key" : 463,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 470,
+		"customer_key" : 18,
+		"date_key" : 464,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 471,
+		"customer_key" : 18,
+		"date_key" : 465,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 472,
+		"customer_key" : 18,
+		"date_key" : 466,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 473,
+		"customer_key" : 18,
+		"date_key" : 467,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 474,
+		"customer_key" : 18,
+		"date_key" : 468,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 475,
+		"customer_key" : 18,
+		"date_key" : 469,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 476,
+		"customer_key" : 18,
+		"date_key" : 470,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 477,
+		"customer_key" : 18,
+		"date_key" : 471,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 478,
+		"customer_key" : 18,
+		"date_key" : 472,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 479,
+		"customer_key" : 18,
+		"date_key" : 473,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 480,
+		"customer_key" : 18,
+		"date_key" : 474,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 481,
+		"customer_key" : 18,
+		"date_key" : 475,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 482,
+		"customer_key" : 18,
+		"date_key" : 476,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 483,
+		"customer_key" : 18,
+		"date_key" : 477,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 484,
+		"customer_key" : 18,
+		"date_key" : 478,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 485,
+		"customer_key" : 18,
+		"date_key" : 479,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 486,
+		"customer_key" : 18,
+		"date_key" : 480,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 487,
+		"customer_key" : 18,
+		"date_key" : 481,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 488,
+		"customer_key" : 18,
+		"date_key" : 482,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 489,
+		"customer_key" : 18,
+		"date_key" : 483,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 490,
+		"customer_key" : 19,
+		"date_key" : 484,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 491,
+		"customer_key" : 19,
+		"date_key" : 485,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 492,
+		"customer_key" : 19,
+		"date_key" : 486,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 493,
+		"customer_key" : 19,
+		"date_key" : 487,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 494,
+		"customer_key" : 19,
+		"date_key" : 488,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 495,
+		"customer_key" : 19,
+		"date_key" : 489,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 496,
+		"customer_key" : 19,
+		"date_key" : 490,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 497,
+		"customer_key" : 19,
+		"date_key" : 491,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 498,
+		"customer_key" : 19,
+		"date_key" : 492,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 499,
+		"customer_key" : 19,
+		"date_key" : 493,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 500,
+		"customer_key" : 19,
+		"date_key" : 494,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 501,
+		"customer_key" : 19,
+		"date_key" : 495,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 502,
+		"customer_key" : 19,
+		"date_key" : 496,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 503,
+		"customer_key" : 19,
+		"date_key" : 497,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 504,
+		"customer_key" : 19,
+		"date_key" : 498,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 505,
+		"customer_key" : 19,
+		"date_key" : 499,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 506,
+		"customer_key" : 19,
+		"date_key" : 500,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 507,
+		"customer_key" : 19,
+		"date_key" : 501,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 508,
+		"customer_key" : 19,
+		"date_key" : 502,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 509,
+		"customer_key" : 19,
+		"date_key" : 503,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 510,
+		"customer_key" : 19,
+		"date_key" : 504,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 511,
+		"customer_key" : 19,
+		"date_key" : 505,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 512,
+		"customer_key" : 19,
+		"date_key" : 506,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 513,
+		"customer_key" : 19,
+		"date_key" : 507,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 514,
+		"customer_key" : 20,
+		"date_key" : 508,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 515,
+		"customer_key" : 20,
+		"date_key" : 509,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 516,
+		"customer_key" : 20,
+		"date_key" : 510,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 517,
+		"customer_key" : 20,
+		"date_key" : 511,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 518,
+		"customer_key" : 20,
+		"date_key" : 512,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 519,
+		"customer_key" : 20,
+		"date_key" : 513,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 520,
+		"customer_key" : 20,
+		"date_key" : 514,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 521,
+		"customer_key" : 20,
+		"date_key" : 515,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 522,
+		"customer_key" : 20,
+		"date_key" : 516,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 523,
+		"customer_key" : 20,
+		"date_key" : 517,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 524,
+		"customer_key" : 20,
+		"date_key" : 518,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 525,
+		"customer_key" : 20,
+		"date_key" : 519,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 526,
+		"customer_key" : 20,
+		"date_key" : 520,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 527,
+		"customer_key" : 20,
+		"date_key" : 521,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 528,
+		"customer_key" : 20,
+		"date_key" : 522,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 529,
+		"customer_key" : 20,
+		"date_key" : 523,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 530,
+		"customer_key" : 20,
+		"date_key" : 524,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 531,
+		"customer_key" : 20,
+		"date_key" : 525,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 532,
+		"customer_key" : 20,
+		"date_key" : 526,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 533,
+		"customer_key" : 20,
+		"date_key" : 527,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 534,
+		"customer_key" : 20,
+		"date_key" : 528,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 535,
+		"customer_key" : 20,
+		"date_key" : 529,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 536,
+		"customer_key" : 20,
+		"date_key" : 530,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 537,
+		"customer_key" : 20,
+		"date_key" : 531,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 538,
+		"customer_key" : 20,
+		"date_key" : 532,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 539,
+		"customer_key" : 20,
+		"date_key" : 533,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 540,
+		"customer_key" : 20,
+		"date_key" : 534,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 541,
+		"customer_key" : 20,
+		"date_key" : 535,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 542,
+		"customer_key" : 20,
+		"date_key" : 536,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 543,
+		"customer_key" : 20,
+		"date_key" : 537,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 544,
+		"customer_key" : 21,
+		"date_key" : 538,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 545,
+		"customer_key" : 21,
+		"date_key" : 539,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 546,
+		"customer_key" : 21,
+		"date_key" : 540,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 547,
+		"customer_key" : 21,
+		"date_key" : 541,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 548,
+		"customer_key" : 21,
+		"date_key" : 542,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 549,
+		"customer_key" : 21,
+		"date_key" : 543,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 550,
+		"customer_key" : 21,
+		"date_key" : 544,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 551,
+		"customer_key" : 21,
+		"date_key" : 545,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 552,
+		"customer_key" : 21,
+		"date_key" : 546,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 553,
+		"customer_key" : 21,
+		"date_key" : 547,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 554,
+		"customer_key" : 21,
+		"date_key" : 548,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 555,
+		"customer_key" : 21,
+		"date_key" : 549,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 556,
+		"customer_key" : 21,
+		"date_key" : 550,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 557,
+		"customer_key" : 21,
+		"date_key" : 551,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 558,
+		"customer_key" : 21,
+		"date_key" : 552,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 559,
+		"customer_key" : 21,
+		"date_key" : 553,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 560,
+		"customer_key" : 21,
+		"date_key" : 554,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 561,
+		"customer_key" : 21,
+		"date_key" : 555,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 562,
+		"customer_key" : 21,
+		"date_key" : 556,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 563,
+		"customer_key" : 21,
+		"date_key" : 557,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 564,
+		"customer_key" : 21,
+		"date_key" : 558,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 565,
+		"customer_key" : 21,
+		"date_key" : 559,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 566,
+		"customer_key" : 21,
+		"date_key" : 560,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 567,
+		"customer_key" : 21,
+		"date_key" : 561,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 568,
+		"customer_key" : 21,
+		"date_key" : 562,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 569,
+		"customer_key" : 21,
+		"date_key" : 563,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 570,
+		"customer_key" : 21,
+		"date_key" : 564,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 571,
+		"customer_key" : 21,
+		"date_key" : 565,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 572,
+		"customer_key" : 21,
+		"date_key" : 566,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 573,
+		"customer_key" : 21,
+		"date_key" : 567,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 574,
+		"customer_key" : 21,
+		"date_key" : 568,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 575,
+		"customer_key" : 21,
+		"date_key" : 569,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 576,
+		"customer_key" : 21,
+		"date_key" : 570,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 577,
+		"customer_key" : 21,
+		"date_key" : 571,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 578,
+		"customer_key" : 21,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 579,
+		"customer_key" : 22,
+		"date_key" : 572,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 580,
+		"customer_key" : 22,
+		"date_key" : 573,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 581,
+		"customer_key" : 22,
+		"date_key" : 574,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 582,
+		"customer_key" : 22,
+		"date_key" : 575,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 583,
+		"customer_key" : 22,
+		"date_key" : 576,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 584,
+		"customer_key" : 22,
+		"date_key" : 577,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 585,
+		"customer_key" : 22,
+		"date_key" : 578,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 586,
+		"customer_key" : 22,
+		"date_key" : 579,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 587,
+		"customer_key" : 22,
+		"date_key" : 580,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 588,
+		"customer_key" : 22,
+		"date_key" : 581,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 589,
+		"customer_key" : 22,
+		"date_key" : 582,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 590,
+		"customer_key" : 22,
+		"date_key" : 583,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 591,
+		"customer_key" : 22,
+		"date_key" : 584,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 592,
+		"customer_key" : 22,
+		"date_key" : 585,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 593,
+		"customer_key" : 22,
+		"date_key" : 586,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 594,
+		"customer_key" : 22,
+		"date_key" : 587,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 595,
+		"customer_key" : 22,
+		"date_key" : 588,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 596,
+		"customer_key" : 22,
+		"date_key" : 589,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 597,
+		"customer_key" : 22,
+		"date_key" : 590,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 598,
+		"customer_key" : 22,
+		"date_key" : 591,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 599,
+		"customer_key" : 22,
+		"date_key" : 592,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 600,
+		"customer_key" : 22,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 601,
+		"customer_key" : 23,
+		"date_key" : 593,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 602,
+		"customer_key" : 23,
+		"date_key" : 594,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 603,
+		"customer_key" : 23,
+		"date_key" : 595,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 604,
+		"customer_key" : 23,
+		"date_key" : 596,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 605,
+		"customer_key" : 23,
+		"date_key" : 597,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 606,
+		"customer_key" : 23,
+		"date_key" : 598,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 607,
+		"customer_key" : 23,
+		"date_key" : 599,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 608,
+		"customer_key" : 23,
+		"date_key" : 600,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 609,
+		"customer_key" : 23,
+		"date_key" : 601,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 610,
+		"customer_key" : 23,
+		"date_key" : 602,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 611,
+		"customer_key" : 23,
+		"date_key" : 603,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 612,
+		"customer_key" : 23,
+		"date_key" : 604,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 613,
+		"customer_key" : 23,
+		"date_key" : 605,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 614,
+		"customer_key" : 23,
+		"date_key" : 606,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 615,
+		"customer_key" : 23,
+		"date_key" : 607,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 616,
+		"customer_key" : 23,
+		"date_key" : 608,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 617,
+		"customer_key" : 23,
+		"date_key" : 609,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 618,
+		"customer_key" : 23,
+		"date_key" : 610,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 619,
+		"customer_key" : 23,
+		"date_key" : 611,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 620,
+		"customer_key" : 23,
+		"date_key" : 612,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 621,
+		"customer_key" : 23,
+		"date_key" : 613,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 622,
+		"customer_key" : 23,
+		"date_key" : 614,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 623,
+		"customer_key" : 23,
+		"date_key" : 615,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 624,
+		"customer_key" : 23,
+		"date_key" : 616,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 625,
+		"customer_key" : 23,
+		"date_key" : 617,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 626,
+		"customer_key" : 23,
+		"date_key" : 618,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 627,
+		"customer_key" : 23,
+		"date_key" : 619,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 628,
+		"customer_key" : 23,
+		"date_key" : 620,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 629,
+		"customer_key" : 23,
+		"date_key" : 621,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 630,
+		"customer_key" : 23,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 631,
+		"customer_key" : 24,
+		"date_key" : 622,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 632,
+		"customer_key" : 24,
+		"date_key" : 623,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 633,
+		"customer_key" : 24,
+		"date_key" : 624,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 634,
+		"customer_key" : 24,
+		"date_key" : 625,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 635,
+		"customer_key" : 24,
+		"date_key" : 626,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 636,
+		"customer_key" : 24,
+		"date_key" : 627,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 637,
+		"customer_key" : 24,
+		"date_key" : 628,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 638,
+		"customer_key" : 24,
+		"date_key" : 629,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 639,
+		"customer_key" : 24,
+		"date_key" : 630,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 640,
+		"customer_key" : 24,
+		"date_key" : 631,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 641,
+		"customer_key" : 24,
+		"date_key" : 632,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 642,
+		"customer_key" : 24,
+		"date_key" : 633,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 643,
+		"customer_key" : 24,
+		"date_key" : 634,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 644,
+		"customer_key" : 24,
+		"date_key" : 635,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 645,
+		"customer_key" : 24,
+		"date_key" : 636,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 646,
+		"customer_key" : 24,
+		"date_key" : 637,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 647,
+		"customer_key" : 24,
+		"date_key" : 638,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 648,
+		"customer_key" : 24,
+		"date_key" : 639,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 649,
+		"customer_key" : 24,
+		"date_key" : 640,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 650,
+		"customer_key" : 24,
+		"date_key" : 641,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 651,
+		"customer_key" : 24,
+		"date_key" : 642,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 652,
+		"customer_key" : 24,
+		"date_key" : 643,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 653,
+		"customer_key" : 24,
+		"date_key" : 644,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 654,
+		"customer_key" : 24,
+		"date_key" : 645,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 655,
+		"customer_key" : 24,
+		"date_key" : 646,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 656,
+		"customer_key" : 25,
+		"date_key" : 647,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 657,
+		"customer_key" : 25,
+		"date_key" : 648,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 658,
+		"customer_key" : 25,
+		"date_key" : 649,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 659,
+		"customer_key" : 25,
+		"date_key" : 650,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 660,
+		"customer_key" : 25,
+		"date_key" : 651,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 661,
+		"customer_key" : 25,
+		"date_key" : 652,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 662,
+		"customer_key" : 25,
+		"date_key" : 653,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 663,
+		"customer_key" : 25,
+		"date_key" : 654,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 664,
+		"customer_key" : 25,
+		"date_key" : 655,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 665,
+		"customer_key" : 25,
+		"date_key" : 656,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 666,
+		"customer_key" : 25,
+		"date_key" : 657,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 667,
+		"customer_key" : 25,
+		"date_key" : 658,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 668,
+		"customer_key" : 25,
+		"date_key" : 659,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 669,
+		"customer_key" : 25,
+		"date_key" : 660,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 670,
+		"customer_key" : 25,
+		"date_key" : 661,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 671,
+		"customer_key" : 25,
+		"date_key" : 662,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 672,
+		"customer_key" : 25,
+		"date_key" : 663,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 673,
+		"customer_key" : 25,
+		"date_key" : 664,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 674,
+		"customer_key" : 25,
+		"date_key" : 665,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 675,
+		"customer_key" : 25,
+		"date_key" : 666,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 676,
+		"customer_key" : 25,
+		"date_key" : 667,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 677,
+		"customer_key" : 25,
+		"date_key" : 668,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 678,
+		"customer_key" : 25,
+		"date_key" : 669,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 679,
+		"customer_key" : 25,
+		"date_key" : 670,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 680,
+		"customer_key" : 25,
+		"date_key" : 671,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 681,
+		"customer_key" : 25,
+		"date_key" : 672,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 682,
+		"customer_key" : 25,
+		"date_key" : 673,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 683,
+		"customer_key" : 25,
+		"date_key" : 674,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 684,
+		"customer_key" : 25,
+		"date_key" : 675,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 685,
+		"customer_key" : 26,
+		"date_key" : 676,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 686,
+		"customer_key" : 26,
+		"date_key" : 677,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 687,
+		"customer_key" : 26,
+		"date_key" : 678,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 688,
+		"customer_key" : 26,
+		"date_key" : 679,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 689,
+		"customer_key" : 26,
+		"date_key" : 680,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 690,
+		"customer_key" : 26,
+		"date_key" : 681,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 691,
+		"customer_key" : 26,
+		"date_key" : 682,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 692,
+		"customer_key" : 26,
+		"date_key" : 683,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 693,
+		"customer_key" : 26,
+		"date_key" : 684,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 694,
+		"customer_key" : 26,
+		"date_key" : 685,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 695,
+		"customer_key" : 26,
+		"date_key" : 686,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 696,
+		"customer_key" : 26,
+		"date_key" : 687,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 697,
+		"customer_key" : 26,
+		"date_key" : 688,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 698,
+		"customer_key" : 26,
+		"date_key" : 689,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 699,
+		"customer_key" : 26,
+		"date_key" : 690,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 700,
+		"customer_key" : 26,
+		"date_key" : 691,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 701,
+		"customer_key" : 26,
+		"date_key" : 692,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 702,
+		"customer_key" : 26,
+		"date_key" : 693,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 703,
+		"customer_key" : 26,
+		"date_key" : 694,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 704,
+		"customer_key" : 26,
+		"date_key" : 695,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 705,
+		"customer_key" : 26,
+		"date_key" : 696,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 706,
+		"customer_key" : 26,
+		"date_key" : 697,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 707,
+		"customer_key" : 26,
+		"date_key" : 698,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 708,
+		"customer_key" : 26,
+		"date_key" : 699,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 709,
+		"customer_key" : 26,
+		"date_key" : 700,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 710,
+		"customer_key" : 26,
+		"date_key" : 701,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 711,
+		"customer_key" : 26,
+		"date_key" : 702,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 712,
+		"customer_key" : 26,
+		"date_key" : 703,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 713,
+		"customer_key" : 26,
+		"date_key" : 704,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 714,
+		"customer_key" : 26,
+		"date_key" : 705,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 715,
+		"customer_key" : 26,
+		"date_key" : 706,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 716,
+		"customer_key" : 26,
+		"date_key" : 707,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 717,
+		"customer_key" : 26,
+		"date_key" : 708,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 718,
+		"customer_key" : 26,
+		"date_key" : 709,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 719,
+		"customer_key" : 27,
+		"date_key" : 710,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 720,
+		"customer_key" : 27,
+		"date_key" : 711,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 721,
+		"customer_key" : 27,
+		"date_key" : 712,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 722,
+		"customer_key" : 27,
+		"date_key" : 713,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 723,
+		"customer_key" : 27,
+		"date_key" : 714,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 724,
+		"customer_key" : 27,
+		"date_key" : 715,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 725,
+		"customer_key" : 27,
+		"date_key" : 716,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 726,
+		"customer_key" : 27,
+		"date_key" : 717,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 727,
+		"customer_key" : 27,
+		"date_key" : 718,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 728,
+		"customer_key" : 27,
+		"date_key" : 719,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 729,
+		"customer_key" : 27,
+		"date_key" : 720,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 730,
+		"customer_key" : 27,
+		"date_key" : 721,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 731,
+		"customer_key" : 27,
+		"date_key" : 722,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 732,
+		"customer_key" : 27,
+		"date_key" : 723,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 733,
+		"customer_key" : 27,
+		"date_key" : 724,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 734,
+		"customer_key" : 27,
+		"date_key" : 725,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 735,
+		"customer_key" : 27,
+		"date_key" : 726,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 736,
+		"customer_key" : 27,
+		"date_key" : 727,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 737,
+		"customer_key" : 27,
+		"date_key" : 728,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 738,
+		"customer_key" : 27,
+		"date_key" : 729,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 739,
+		"customer_key" : 27,
+		"date_key" : 730,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 740,
+		"customer_key" : 27,
+		"date_key" : 731,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 741,
+		"customer_key" : 27,
+		"date_key" : 732,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 742,
+		"customer_key" : 27,
+		"date_key" : 733,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 743,
+		"customer_key" : 27,
+		"date_key" : 734,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 744,
+		"customer_key" : 27,
+		"date_key" : 735,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 745,
+		"customer_key" : 27,
+		"date_key" : 736,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 746,
+		"customer_key" : 27,
+		"date_key" : 737,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 747,
+		"customer_key" : 27,
+		"date_key" : 738,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 748,
+		"customer_key" : 27,
+		"date_key" : 739,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 749,
+		"customer_key" : 27,
+		"date_key" : 740,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 750,
+		"customer_key" : 28,
+		"date_key" : 741,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 751,
+		"customer_key" : 28,
+		"date_key" : 742,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 752,
+		"customer_key" : 28,
+		"date_key" : 743,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 753,
+		"customer_key" : 28,
+		"date_key" : 744,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 754,
+		"customer_key" : 28,
+		"date_key" : 745,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 755,
+		"customer_key" : 28,
+		"date_key" : 746,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 756,
+		"customer_key" : 28,
+		"date_key" : 747,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 757,
+		"customer_key" : 28,
+		"date_key" : 748,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 758,
+		"customer_key" : 28,
+		"date_key" : 749,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 759,
+		"customer_key" : 28,
+		"date_key" : 750,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 760,
+		"customer_key" : 28,
+		"date_key" : 751,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 761,
+		"customer_key" : 28,
+		"date_key" : 752,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 762,
+		"customer_key" : 28,
+		"date_key" : 753,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 763,
+		"customer_key" : 28,
+		"date_key" : 754,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 764,
+		"customer_key" : 28,
+		"date_key" : 755,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 765,
+		"customer_key" : 28,
+		"date_key" : 756,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 766,
+		"customer_key" : 28,
+		"date_key" : 757,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 767,
+		"customer_key" : 28,
+		"date_key" : 758,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 768,
+		"customer_key" : 28,
+		"date_key" : 759,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 769,
+		"customer_key" : 28,
+		"date_key" : 760,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 770,
+		"customer_key" : 28,
+		"date_key" : 761,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 771,
+		"customer_key" : 28,
+		"date_key" : 762,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 772,
+		"customer_key" : 28,
+		"date_key" : 763,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 773,
+		"customer_key" : 28,
+		"date_key" : 764,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 774,
+		"customer_key" : 28,
+		"date_key" : 765,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 775,
+		"customer_key" : 28,
+		"date_key" : 766,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 776,
+		"customer_key" : 28,
+		"date_key" : 767,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 777,
+		"customer_key" : 28,
+		"date_key" : 768,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 778,
+		"customer_key" : 28,
+		"date_key" : 769,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 779,
+		"customer_key" : 28,
+		"date_key" : 770,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 780,
+		"customer_key" : 28,
+		"date_key" : 771,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 781,
+		"customer_key" : 28,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 782,
+		"customer_key" : 29,
+		"date_key" : 772,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 783,
+		"customer_key" : 29,
+		"date_key" : 773,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 784,
+		"customer_key" : 29,
+		"date_key" : 774,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 785,
+		"customer_key" : 29,
+		"date_key" : 775,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 786,
+		"customer_key" : 29,
+		"date_key" : 776,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 787,
+		"customer_key" : 29,
+		"date_key" : 777,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 788,
+		"customer_key" : 29,
+		"date_key" : 778,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 789,
+		"customer_key" : 29,
+		"date_key" : 779,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 790,
+		"customer_key" : 29,
+		"date_key" : 780,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 791,
+		"customer_key" : 29,
+		"date_key" : 781,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 792,
+		"customer_key" : 29,
+		"date_key" : 782,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 793,
+		"customer_key" : 29,
+		"date_key" : 783,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 794,
+		"customer_key" : 29,
+		"date_key" : 784,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 795,
+		"customer_key" : 29,
+		"date_key" : 785,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 796,
+		"customer_key" : 29,
+		"date_key" : 786,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 797,
+		"customer_key" : 29,
+		"date_key" : 787,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 798,
+		"customer_key" : 29,
+		"date_key" : 788,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 799,
+		"customer_key" : 29,
+		"date_key" : 789,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 800,
+		"customer_key" : 29,
+		"date_key" : 790,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 801,
+		"customer_key" : 29,
+		"date_key" : 791,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 802,
+		"customer_key" : 29,
+		"date_key" : 792,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 803,
+		"customer_key" : 29,
+		"date_key" : 793,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 804,
+		"customer_key" : 29,
+		"date_key" : 794,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 805,
+		"customer_key" : 29,
+		"date_key" : 795,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 806,
+		"customer_key" : 29,
+		"date_key" : 796,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 807,
+		"customer_key" : 29,
+		"date_key" : 797,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 808,
+		"customer_key" : 29,
+		"date_key" : 798,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 809,
+		"customer_key" : 29,
+		"date_key" : 799,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 810,
+		"customer_key" : 29,
+		"date_key" : 800,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 811,
+		"customer_key" : 29,
+		"date_key" : 801,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 812,
+		"customer_key" : 29,
+		"date_key" : 802,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 813,
+		"customer_key" : 29,
+		"date_key" : 803,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 814,
+		"customer_key" : 29,
+		"date_key" : 804,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 815,
+		"customer_key" : 29,
+		"date_key" : 805,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 816,
+		"customer_key" : 29,
+		"date_key" : 806,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 817,
+		"customer_key" : 29,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 818,
+		"customer_key" : 30,
+		"date_key" : 807,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 819,
+		"customer_key" : 30,
+		"date_key" : 808,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 820,
+		"customer_key" : 30,
+		"date_key" : 809,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 821,
+		"customer_key" : 30,
+		"date_key" : 810,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 822,
+		"customer_key" : 30,
+		"date_key" : 811,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 823,
+		"customer_key" : 30,
+		"date_key" : 812,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 824,
+		"customer_key" : 30,
+		"date_key" : 813,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 825,
+		"customer_key" : 30,
+		"date_key" : 814,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 826,
+		"customer_key" : 30,
+		"date_key" : 815,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 827,
+		"customer_key" : 30,
+		"date_key" : 816,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 828,
+		"customer_key" : 30,
+		"date_key" : 817,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 829,
+		"customer_key" : 30,
+		"date_key" : 818,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 830,
+		"customer_key" : 30,
+		"date_key" : 819,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 831,
+		"customer_key" : 30,
+		"date_key" : 820,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 832,
+		"customer_key" : 30,
+		"date_key" : 821,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 833,
+		"customer_key" : 30,
+		"date_key" : 822,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 834,
+		"customer_key" : 30,
+		"date_key" : 823,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 835,
+		"customer_key" : 30,
+		"date_key" : 824,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 836,
+		"customer_key" : 30,
+		"date_key" : 825,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 837,
+		"customer_key" : 30,
+		"date_key" : 826,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 838,
+		"customer_key" : 30,
+		"date_key" : 827,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 839,
+		"customer_key" : 30,
+		"date_key" : 828,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 840,
+		"customer_key" : 30,
+		"date_key" : 829,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 841,
+		"customer_key" : 30,
+		"date_key" : 830,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 842,
+		"customer_key" : 30,
+		"date_key" : 831,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 843,
+		"customer_key" : 30,
+		"date_key" : 832,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 844,
+		"customer_key" : 30,
+		"date_key" : 833,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 845,
+		"customer_key" : 30,
+		"date_key" : 834,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 846,
+		"customer_key" : 30,
+		"date_key" : 835,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 847,
+		"customer_key" : 30,
+		"date_key" : 836,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 848,
+		"customer_key" : 30,
+		"date_key" : 837,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 849,
+		"customer_key" : 30,
+		"date_key" : 838,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 850,
+		"customer_key" : 30,
+		"date_key" : 839,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 851,
+		"customer_key" : 30,
+		"date_key" : 840,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 852,
+		"customer_key" : 31,
+		"date_key" : 841,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 853,
+		"customer_key" : 31,
+		"date_key" : 842,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 854,
+		"customer_key" : 31,
+		"date_key" : 843,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 855,
+		"customer_key" : 31,
+		"date_key" : 844,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 856,
+		"customer_key" : 31,
+		"date_key" : 845,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 857,
+		"customer_key" : 31,
+		"date_key" : 846,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 858,
+		"customer_key" : 31,
+		"date_key" : 847,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 859,
+		"customer_key" : 31,
+		"date_key" : 848,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 860,
+		"customer_key" : 31,
+		"date_key" : 849,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 861,
+		"customer_key" : 31,
+		"date_key" : 850,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 862,
+		"customer_key" : 31,
+		"date_key" : 851,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 863,
+		"customer_key" : 31,
+		"date_key" : 852,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 864,
+		"customer_key" : 31,
+		"date_key" : 853,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 865,
+		"customer_key" : 31,
+		"date_key" : 854,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 866,
+		"customer_key" : 31,
+		"date_key" : 855,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 867,
+		"customer_key" : 31,
+		"date_key" : 856,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 868,
+		"customer_key" : 31,
+		"date_key" : 857,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 869,
+		"customer_key" : 31,
+		"date_key" : 858,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 870,
+		"customer_key" : 31,
+		"date_key" : 859,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 871,
+		"customer_key" : 31,
+		"date_key" : 860,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 872,
+		"customer_key" : 31,
+		"date_key" : 861,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 873,
+		"customer_key" : 31,
+		"date_key" : 862,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 874,
+		"customer_key" : 31,
+		"date_key" : 863,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 875,
+		"customer_key" : 31,
+		"date_key" : 864,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 876,
+		"customer_key" : 31,
+		"date_key" : 865,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 877,
+		"customer_key" : 31,
+		"date_key" : 866,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 878,
+		"customer_key" : 32,
+		"date_key" : 867,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 879,
+		"customer_key" : 32,
+		"date_key" : 868,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 880,
+		"customer_key" : 32,
+		"date_key" : 869,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 881,
+		"customer_key" : 32,
+		"date_key" : 870,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 882,
+		"customer_key" : 32,
+		"date_key" : 871,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 883,
+		"customer_key" : 32,
+		"date_key" : 872,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 884,
+		"customer_key" : 32,
+		"date_key" : 873,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 885,
+		"customer_key" : 32,
+		"date_key" : 874,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 886,
+		"customer_key" : 32,
+		"date_key" : 875,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 887,
+		"customer_key" : 32,
+		"date_key" : 876,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 888,
+		"customer_key" : 32,
+		"date_key" : 877,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 889,
+		"customer_key" : 32,
+		"date_key" : 878,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 890,
+		"customer_key" : 32,
+		"date_key" : 879,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 891,
+		"customer_key" : 32,
+		"date_key" : 880,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 892,
+		"customer_key" : 32,
+		"date_key" : 881,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 893,
+		"customer_key" : 32,
+		"date_key" : 882,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 894,
+		"customer_key" : 32,
+		"date_key" : 883,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 895,
+		"customer_key" : 32,
+		"date_key" : 884,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 896,
+		"customer_key" : 32,
+		"date_key" : 885,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 897,
+		"customer_key" : 32,
+		"date_key" : 886,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 898,
+		"customer_key" : 32,
+		"date_key" : 887,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 899,
+		"customer_key" : 32,
+		"date_key" : 888,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 900,
+		"customer_key" : 32,
+		"date_key" : 889,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 901,
+		"customer_key" : 32,
+		"date_key" : 890,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 902,
+		"customer_key" : 32,
+		"date_key" : 891,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"payment_id" : 903,
+		"customer_key" : 32,
+		"date_key" : 892,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 904,
+		"customer_key" : 32,
+		"date_key" : 893,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 905,
+		"customer_key" : 32,
+		"date_key" : 894,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 906,
+		"customer_key" : 32,
+		"date_key" : 895,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 907,
+		"customer_key" : 33,
+		"date_key" : 896,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 908,
+		"customer_key" : 33,
+		"date_key" : 897,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 10.99
+	},
+	{
+		"payment_id" : 909,
+		"customer_key" : 33,
+		"date_key" : 898,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"payment_id" : 910,
+		"customer_key" : 33,
+		"date_key" : 899,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 911,
+		"customer_key" : 33,
+		"date_key" : 900,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 912,
+		"customer_key" : 33,
+		"date_key" : 901,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 913,
+		"customer_key" : 33,
+		"date_key" : 902,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 914,
+		"customer_key" : 33,
+		"date_key" : 903,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 915,
+		"customer_key" : 33,
+		"date_key" : 904,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 916,
+		"customer_key" : 33,
+		"date_key" : 905,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 917,
+		"customer_key" : 33,
+		"date_key" : 906,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 918,
+		"customer_key" : 33,
+		"date_key" : 907,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 919,
+		"customer_key" : 33,
+		"date_key" : 908,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 920,
+		"customer_key" : 33,
+		"date_key" : 909,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 921,
+		"customer_key" : 33,
+		"date_key" : 910,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 922,
+		"customer_key" : 33,
+		"date_key" : 911,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 923,
+		"customer_key" : 33,
+		"date_key" : 912,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 924,
+		"customer_key" : 33,
+		"date_key" : 913,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 925,
+		"customer_key" : 33,
+		"date_key" : 914,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 926,
+		"customer_key" : 33,
+		"date_key" : 915,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 927,
+		"customer_key" : 33,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 928,
+		"customer_key" : 34,
+		"date_key" : 916,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 929,
+		"customer_key" : 34,
+		"date_key" : 917,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 930,
+		"customer_key" : 34,
+		"date_key" : 918,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 931,
+		"customer_key" : 34,
+		"date_key" : 919,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 932,
+		"customer_key" : 34,
+		"date_key" : 920,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 933,
+		"customer_key" : 34,
+		"date_key" : 921,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 934,
+		"customer_key" : 34,
+		"date_key" : 922,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 935,
+		"customer_key" : 34,
+		"date_key" : 923,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 936,
+		"customer_key" : 34,
+		"date_key" : 924,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 937,
+		"customer_key" : 34,
+		"date_key" : 925,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 938,
+		"customer_key" : 34,
+		"date_key" : 926,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 939,
+		"customer_key" : 34,
+		"date_key" : 927,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 940,
+		"customer_key" : 34,
+		"date_key" : 928,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 941,
+		"customer_key" : 34,
+		"date_key" : 929,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 942,
+		"customer_key" : 34,
+		"date_key" : 930,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 943,
+		"customer_key" : 34,
+		"date_key" : 931,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 944,
+		"customer_key" : 34,
+		"date_key" : 932,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 945,
+		"customer_key" : 34,
+		"date_key" : 933,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 946,
+		"customer_key" : 34,
+		"date_key" : 934,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 947,
+		"customer_key" : 34,
+		"date_key" : 935,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 948,
+		"customer_key" : 34,
+		"date_key" : 936,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 949,
+		"customer_key" : 34,
+		"date_key" : 937,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 950,
+		"customer_key" : 34,
+		"date_key" : 938,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 951,
+		"customer_key" : 34,
+		"date_key" : 939,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 952,
+		"customer_key" : 35,
+		"date_key" : 940,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"payment_id" : 953,
+		"customer_key" : 35,
+		"date_key" : 941,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 954,
+		"customer_key" : 35,
+		"date_key" : 942,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 955,
+		"customer_key" : 35,
+		"date_key" : 943,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 956,
+		"customer_key" : 35,
+		"date_key" : 944,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 957,
+		"customer_key" : 35,
+		"date_key" : 945,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 958,
+		"customer_key" : 35,
+		"date_key" : 946,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 959,
+		"customer_key" : 35,
+		"date_key" : 947,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 960,
+		"customer_key" : 35,
+		"date_key" : 948,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 961,
+		"customer_key" : 35,
+		"date_key" : 949,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 962,
+		"customer_key" : 35,
+		"date_key" : 950,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 963,
+		"customer_key" : 35,
+		"date_key" : 951,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 964,
+		"customer_key" : 35,
+		"date_key" : 952,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 965,
+		"customer_key" : 35,
+		"date_key" : 953,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 966,
+		"customer_key" : 35,
+		"date_key" : 954,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 967,
+		"customer_key" : 35,
+		"date_key" : 955,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 968,
+		"customer_key" : 35,
+		"date_key" : 956,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 969,
+		"customer_key" : 35,
+		"date_key" : 957,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 970,
+		"customer_key" : 35,
+		"date_key" : 958,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 971,
+		"customer_key" : 35,
+		"date_key" : 959,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 972,
+		"customer_key" : 35,
+		"date_key" : 960,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 973,
+		"customer_key" : 35,
+		"date_key" : 961,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"payment_id" : 974,
+		"customer_key" : 35,
+		"date_key" : 962,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 975,
+		"customer_key" : 35,
+		"date_key" : 963,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 976,
+		"customer_key" : 35,
+		"date_key" : 964,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"payment_id" : 977,
+		"customer_key" : 35,
+		"date_key" : 965,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"payment_id" : 978,
+		"customer_key" : 35,
+		"date_key" : 966,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 979,
+		"customer_key" : 35,
+		"date_key" : 967,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 980,
+		"customer_key" : 35,
+		"date_key" : 968,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 981,
+		"customer_key" : 35,
+		"date_key" : 969,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 982,
+		"customer_key" : 35,
+		"date_key" : 970,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 983,
+		"customer_key" : 35,
+		"date_key" : 971,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 984,
+		"customer_key" : 36,
+		"date_key" : 972,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 985,
+		"customer_key" : 36,
+		"date_key" : 973,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 986,
+		"customer_key" : 36,
+		"date_key" : 974,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 987,
+		"customer_key" : 36,
+		"date_key" : 975,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 988,
+		"customer_key" : 36,
+		"date_key" : 976,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 989,
+		"customer_key" : 36,
+		"date_key" : 977,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 990,
+		"customer_key" : 36,
+		"date_key" : 978,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 991,
+		"customer_key" : 36,
+		"date_key" : 979,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 992,
+		"customer_key" : 36,
+		"date_key" : 980,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 993,
+		"customer_key" : 36,
+		"date_key" : 981,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 994,
+		"customer_key" : 36,
+		"date_key" : 982,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"payment_id" : 995,
+		"customer_key" : 36,
+		"date_key" : 983,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 996,
+		"customer_key" : 36,
+		"date_key" : 984,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 997,
+		"customer_key" : 36,
+		"date_key" : 985,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"payment_id" : 998,
+		"customer_key" : 36,
+		"date_key" : 986,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 999,
+		"customer_key" : 36,
+		"date_key" : 987,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"payment_id" : 1000,
+		"customer_key" : 36,
+		"date_key" : 988,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"payment_id" : 1001,
+		"customer_key" : 36,
+		"date_key" : 989,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	}
+]

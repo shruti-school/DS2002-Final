@@ -1,0 +1,2674 @@
+[
+	{
+		"fact_rental_key" : 1,
+		"customer_key" : 1,
+		"date_key" : 1,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 2,
+		"customer_key" : 1,
+		"date_key" : 2,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 3,
+		"customer_key" : 1,
+		"date_key" : 3,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 4,
+		"customer_key" : 1,
+		"date_key" : 4,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 5,
+		"customer_key" : 1,
+		"date_key" : 5,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 9.99
+	},
+	{
+		"fact_rental_key" : 6,
+		"customer_key" : 1,
+		"date_key" : 6,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 7,
+		"customer_key" : 1,
+		"date_key" : 7,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 8,
+		"customer_key" : 1,
+		"date_key" : 8,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 9,
+		"customer_key" : 1,
+		"date_key" : 9,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 10,
+		"customer_key" : 1,
+		"date_key" : 10,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 11,
+		"customer_key" : 1,
+		"date_key" : 11,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 12,
+		"customer_key" : 1,
+		"date_key" : 12,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 13,
+		"customer_key" : 1,
+		"date_key" : 13,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 14,
+		"customer_key" : 1,
+		"date_key" : 14,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 15,
+		"customer_key" : 1,
+		"date_key" : 15,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 16,
+		"customer_key" : 1,
+		"date_key" : 16,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 17,
+		"customer_key" : 1,
+		"date_key" : 17,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 18,
+		"customer_key" : 1,
+		"date_key" : 18,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 19,
+		"customer_key" : 1,
+		"date_key" : 19,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 20,
+		"customer_key" : 1,
+		"date_key" : 20,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 21,
+		"customer_key" : 1,
+		"date_key" : 21,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 22,
+		"customer_key" : 1,
+		"date_key" : 22,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 23,
+		"customer_key" : 1,
+		"date_key" : 23,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 24,
+		"customer_key" : 1,
+		"date_key" : 24,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 25,
+		"customer_key" : 1,
+		"date_key" : 25,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 26,
+		"customer_key" : 1,
+		"date_key" : 26,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 27,
+		"customer_key" : 1,
+		"date_key" : 27,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 28,
+		"customer_key" : 1,
+		"date_key" : 28,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 29,
+		"customer_key" : 1,
+		"date_key" : 29,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 30,
+		"customer_key" : 1,
+		"date_key" : 30,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 31,
+		"customer_key" : 1,
+		"date_key" : 31,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 32,
+		"customer_key" : 1,
+		"date_key" : 32,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 33,
+		"customer_key" : 2,
+		"date_key" : 33,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 34,
+		"customer_key" : 2,
+		"date_key" : 34,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 35,
+		"customer_key" : 2,
+		"date_key" : 35,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 36,
+		"customer_key" : 2,
+		"date_key" : 36,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 37,
+		"customer_key" : 2,
+		"date_key" : 37,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 38,
+		"customer_key" : 2,
+		"date_key" : 38,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 39,
+		"customer_key" : 2,
+		"date_key" : 39,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 40,
+		"customer_key" : 2,
+		"date_key" : 40,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 41,
+		"customer_key" : 2,
+		"date_key" : 41,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 42,
+		"customer_key" : 2,
+		"date_key" : 42,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 43,
+		"customer_key" : 2,
+		"date_key" : 43,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 44,
+		"customer_key" : 2,
+		"date_key" : 44,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"fact_rental_key" : 45,
+		"customer_key" : 2,
+		"date_key" : 45,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 46,
+		"customer_key" : 2,
+		"date_key" : 46,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 47,
+		"customer_key" : 2,
+		"date_key" : 47,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 48,
+		"customer_key" : 2,
+		"date_key" : 48,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 49,
+		"customer_key" : 2,
+		"date_key" : 49,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 50,
+		"customer_key" : 2,
+		"date_key" : 50,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 51,
+		"customer_key" : 2,
+		"date_key" : 51,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 52,
+		"customer_key" : 2,
+		"date_key" : 52,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 53,
+		"customer_key" : 2,
+		"date_key" : 53,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 54,
+		"customer_key" : 2,
+		"date_key" : 54,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 55,
+		"customer_key" : 2,
+		"date_key" : 55,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 56,
+		"customer_key" : 2,
+		"date_key" : 56,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 57,
+		"customer_key" : 2,
+		"date_key" : 57,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 58,
+		"customer_key" : 2,
+		"date_key" : 58,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 59,
+		"customer_key" : 2,
+		"date_key" : 59,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 60,
+		"customer_key" : 3,
+		"date_key" : 60,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 61,
+		"customer_key" : 3,
+		"date_key" : 61,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 62,
+		"customer_key" : 3,
+		"date_key" : 62,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 63,
+		"customer_key" : 3,
+		"date_key" : 63,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 64,
+		"customer_key" : 3,
+		"date_key" : 64,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 65,
+		"customer_key" : 3,
+		"date_key" : 65,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 66,
+		"customer_key" : 3,
+		"date_key" : 66,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 67,
+		"customer_key" : 3,
+		"date_key" : 67,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 68,
+		"customer_key" : 3,
+		"date_key" : 68,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 69,
+		"customer_key" : 3,
+		"date_key" : 69,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"fact_rental_key" : 70,
+		"customer_key" : 3,
+		"date_key" : 70,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 71,
+		"customer_key" : 3,
+		"date_key" : 71,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 72,
+		"customer_key" : 3,
+		"date_key" : 72,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 73,
+		"customer_key" : 3,
+		"date_key" : 73,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 74,
+		"customer_key" : 3,
+		"date_key" : 74,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 75,
+		"customer_key" : 3,
+		"date_key" : 75,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 76,
+		"customer_key" : 3,
+		"date_key" : 76,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 77,
+		"customer_key" : 3,
+		"date_key" : 77,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 78,
+		"customer_key" : 3,
+		"date_key" : 78,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 79,
+		"customer_key" : 3,
+		"date_key" : 79,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 80,
+		"customer_key" : 3,
+		"date_key" : 80,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 81,
+		"customer_key" : 3,
+		"date_key" : 81,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 82,
+		"customer_key" : 3,
+		"date_key" : 82,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 83,
+		"customer_key" : 3,
+		"date_key" : 83,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 84,
+		"customer_key" : 3,
+		"date_key" : 84,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 85,
+		"customer_key" : 3,
+		"date_key" : 85,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 86,
+		"customer_key" : 4,
+		"date_key" : 86,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 87,
+		"customer_key" : 4,
+		"date_key" : 87,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 88,
+		"customer_key" : 4,
+		"date_key" : 88,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 89,
+		"customer_key" : 4,
+		"date_key" : 89,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 90,
+		"customer_key" : 4,
+		"date_key" : 90,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 91,
+		"customer_key" : 4,
+		"date_key" : 91,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 92,
+		"customer_key" : 4,
+		"date_key" : 92,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 93,
+		"customer_key" : 4,
+		"date_key" : 93,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 94,
+		"customer_key" : 4,
+		"date_key" : 94,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 95,
+		"customer_key" : 4,
+		"date_key" : 95,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 96,
+		"customer_key" : 4,
+		"date_key" : 96,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 97,
+		"customer_key" : 4,
+		"date_key" : 97,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 98,
+		"customer_key" : 4,
+		"date_key" : 98,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 99,
+		"customer_key" : 4,
+		"date_key" : 99,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 100,
+		"customer_key" : 4,
+		"date_key" : 100,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 101,
+		"customer_key" : 4,
+		"date_key" : 101,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 102,
+		"customer_key" : 4,
+		"date_key" : 102,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 103,
+		"customer_key" : 4,
+		"date_key" : 103,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 104,
+		"customer_key" : 4,
+		"date_key" : 104,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 105,
+		"customer_key" : 4,
+		"date_key" : 105,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 106,
+		"customer_key" : 4,
+		"date_key" : 106,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 107,
+		"customer_key" : 4,
+		"date_key" : 107,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 108,
+		"customer_key" : 5,
+		"date_key" : 108,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 109,
+		"customer_key" : 5,
+		"date_key" : 109,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 110,
+		"customer_key" : 5,
+		"date_key" : 110,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 111,
+		"customer_key" : 5,
+		"date_key" : 111,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 112,
+		"customer_key" : 5,
+		"date_key" : 112,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 113,
+		"customer_key" : 5,
+		"date_key" : 113,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 114,
+		"customer_key" : 5,
+		"date_key" : 114,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 115,
+		"customer_key" : 5,
+		"date_key" : 115,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 116,
+		"customer_key" : 5,
+		"date_key" : 116,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 117,
+		"customer_key" : 5,
+		"date_key" : 117,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 118,
+		"customer_key" : 5,
+		"date_key" : 118,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 119,
+		"customer_key" : 5,
+		"date_key" : 119,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 120,
+		"customer_key" : 5,
+		"date_key" : 120,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 121,
+		"customer_key" : 5,
+		"date_key" : 121,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 122,
+		"customer_key" : 5,
+		"date_key" : 122,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 123,
+		"customer_key" : 5,
+		"date_key" : 123,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 124,
+		"customer_key" : 5,
+		"date_key" : 124,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 125,
+		"customer_key" : 5,
+		"date_key" : 125,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 126,
+		"customer_key" : 5,
+		"date_key" : 126,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 127,
+		"customer_key" : 5,
+		"date_key" : 127,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 128,
+		"customer_key" : 5,
+		"date_key" : 128,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 129,
+		"customer_key" : 5,
+		"date_key" : 129,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 130,
+		"customer_key" : 5,
+		"date_key" : 130,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 131,
+		"customer_key" : 5,
+		"date_key" : 131,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 132,
+		"customer_key" : 5,
+		"date_key" : 132,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 133,
+		"customer_key" : 5,
+		"date_key" : 133,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 134,
+		"customer_key" : 5,
+		"date_key" : 134,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 135,
+		"customer_key" : 5,
+		"date_key" : 135,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 136,
+		"customer_key" : 5,
+		"date_key" : 136,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 137,
+		"customer_key" : 5,
+		"date_key" : 137,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"fact_rental_key" : 138,
+		"customer_key" : 5,
+		"date_key" : 138,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 139,
+		"customer_key" : 5,
+		"date_key" : 139,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 140,
+		"customer_key" : 5,
+		"date_key" : 140,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 141,
+		"customer_key" : 5,
+		"date_key" : 141,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 142,
+		"customer_key" : 5,
+		"date_key" : 142,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 143,
+		"customer_key" : 5,
+		"date_key" : 143,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 144,
+		"customer_key" : 5,
+		"date_key" : 144,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 145,
+		"customer_key" : 5,
+		"date_key" : 145,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 146,
+		"customer_key" : 6,
+		"date_key" : 146,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 147,
+		"customer_key" : 6,
+		"date_key" : 147,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 148,
+		"customer_key" : 6,
+		"date_key" : 148,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 149,
+		"customer_key" : 6,
+		"date_key" : 149,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 150,
+		"customer_key" : 6,
+		"date_key" : 150,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 151,
+		"customer_key" : 6,
+		"date_key" : 151,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 152,
+		"customer_key" : 6,
+		"date_key" : 152,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 153,
+		"customer_key" : 6,
+		"date_key" : 153,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 154,
+		"customer_key" : 6,
+		"date_key" : 154,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 155,
+		"customer_key" : 6,
+		"date_key" : 155,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 156,
+		"customer_key" : 6,
+		"date_key" : 156,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 157,
+		"customer_key" : 6,
+		"date_key" : 157,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 158,
+		"customer_key" : 6,
+		"date_key" : 158,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 159,
+		"customer_key" : 6,
+		"date_key" : 159,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 160,
+		"customer_key" : 6,
+		"date_key" : 160,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 161,
+		"customer_key" : 6,
+		"date_key" : 161,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 162,
+		"customer_key" : 6,
+		"date_key" : 162,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 163,
+		"customer_key" : 6,
+		"date_key" : 163,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 164,
+		"customer_key" : 6,
+		"date_key" : 164,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 165,
+		"customer_key" : 6,
+		"date_key" : 165,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 166,
+		"customer_key" : 6,
+		"date_key" : 166,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 167,
+		"customer_key" : 6,
+		"date_key" : 167,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 168,
+		"customer_key" : 6,
+		"date_key" : 168,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 169,
+		"customer_key" : 6,
+		"date_key" : 169,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 170,
+		"customer_key" : 6,
+		"date_key" : 170,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 171,
+		"customer_key" : 6,
+		"date_key" : 171,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 172,
+		"customer_key" : 6,
+		"date_key" : 172,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 173,
+		"customer_key" : 6,
+		"date_key" : 173,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 174,
+		"customer_key" : 7,
+		"date_key" : 174,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 175,
+		"customer_key" : 7,
+		"date_key" : 175,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 176,
+		"customer_key" : 7,
+		"date_key" : 176,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 177,
+		"customer_key" : 7,
+		"date_key" : 177,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 178,
+		"customer_key" : 7,
+		"date_key" : 178,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 179,
+		"customer_key" : 7,
+		"date_key" : 179,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 180,
+		"customer_key" : 7,
+		"date_key" : 180,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 181,
+		"customer_key" : 7,
+		"date_key" : 181,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 182,
+		"customer_key" : 7,
+		"date_key" : 182,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 183,
+		"customer_key" : 7,
+		"date_key" : 183,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 184,
+		"customer_key" : 7,
+		"date_key" : 184,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 185,
+		"customer_key" : 7,
+		"date_key" : 185,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 186,
+		"customer_key" : 7,
+		"date_key" : 186,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 187,
+		"customer_key" : 7,
+		"date_key" : 187,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 188,
+		"customer_key" : 7,
+		"date_key" : 188,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 189,
+		"customer_key" : 7,
+		"date_key" : 189,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 190,
+		"customer_key" : 7,
+		"date_key" : 190,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 191,
+		"customer_key" : 7,
+		"date_key" : 191,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 192,
+		"customer_key" : 7,
+		"date_key" : 192,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 193,
+		"customer_key" : 7,
+		"date_key" : 193,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 194,
+		"customer_key" : 7,
+		"date_key" : 194,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 195,
+		"customer_key" : 7,
+		"date_key" : 195,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 196,
+		"customer_key" : 7,
+		"date_key" : 196,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 197,
+		"customer_key" : 7,
+		"date_key" : 197,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 198,
+		"customer_key" : 7,
+		"date_key" : 198,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 199,
+		"customer_key" : 7,
+		"date_key" : 199,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 200,
+		"customer_key" : 7,
+		"date_key" : 200,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 201,
+		"customer_key" : 7,
+		"date_key" : 201,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 202,
+		"customer_key" : 7,
+		"date_key" : 202,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 203,
+		"customer_key" : 7,
+		"date_key" : 203,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 204,
+		"customer_key" : 7,
+		"date_key" : 204,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 205,
+		"customer_key" : 7,
+		"date_key" : 205,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 206,
+		"customer_key" : 7,
+		"date_key" : 206,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 207,
+		"customer_key" : 8,
+		"date_key" : 207,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 208,
+		"customer_key" : 8,
+		"date_key" : 208,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 209,
+		"customer_key" : 8,
+		"date_key" : 209,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 210,
+		"customer_key" : 8,
+		"date_key" : 210,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 211,
+		"customer_key" : 8,
+		"date_key" : 211,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 212,
+		"customer_key" : 8,
+		"date_key" : 212,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 213,
+		"customer_key" : 8,
+		"date_key" : 213,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 214,
+		"customer_key" : 8,
+		"date_key" : 214,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 215,
+		"customer_key" : 8,
+		"date_key" : 215,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 216,
+		"customer_key" : 8,
+		"date_key" : 216,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 217,
+		"customer_key" : 8,
+		"date_key" : 217,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 218,
+		"customer_key" : 8,
+		"date_key" : 218,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 219,
+		"customer_key" : 8,
+		"date_key" : 219,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 220,
+		"customer_key" : 8,
+		"date_key" : 220,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 221,
+		"customer_key" : 8,
+		"date_key" : 221,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 222,
+		"customer_key" : 8,
+		"date_key" : 222,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 223,
+		"customer_key" : 8,
+		"date_key" : 223,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 224,
+		"customer_key" : 8,
+		"date_key" : 224,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"fact_rental_key" : 225,
+		"customer_key" : 8,
+		"date_key" : 225,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 226,
+		"customer_key" : 8,
+		"date_key" : 226,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 227,
+		"customer_key" : 8,
+		"date_key" : 227,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 228,
+		"customer_key" : 8,
+		"date_key" : 228,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 229,
+		"customer_key" : 8,
+		"date_key" : 229,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 230,
+		"customer_key" : 8,
+		"date_key" : 230,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 231,
+		"customer_key" : 9,
+		"date_key" : 231,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 232,
+		"customer_key" : 9,
+		"date_key" : 232,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 233,
+		"customer_key" : 9,
+		"date_key" : 233,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 234,
+		"customer_key" : 9,
+		"date_key" : 234,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 235,
+		"customer_key" : 9,
+		"date_key" : 235,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 236,
+		"customer_key" : 9,
+		"date_key" : 236,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 237,
+		"customer_key" : 9,
+		"date_key" : 237,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 238,
+		"customer_key" : 9,
+		"date_key" : 238,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 239,
+		"customer_key" : 9,
+		"date_key" : 239,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 240,
+		"customer_key" : 9,
+		"date_key" : 240,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 241,
+		"customer_key" : 9,
+		"date_key" : 241,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 242,
+		"customer_key" : 9,
+		"date_key" : 242,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 243,
+		"customer_key" : 9,
+		"date_key" : 243,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 244,
+		"customer_key" : 9,
+		"date_key" : 244,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 245,
+		"customer_key" : 9,
+		"date_key" : 245,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 246,
+		"customer_key" : 9,
+		"date_key" : 246,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 247,
+		"customer_key" : 9,
+		"date_key" : 247,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 248,
+		"customer_key" : 9,
+		"date_key" : 248,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 249,
+		"customer_key" : 9,
+		"date_key" : 249,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 250,
+		"customer_key" : 9,
+		"date_key" : 250,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 251,
+		"customer_key" : 9,
+		"date_key" : 251,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 252,
+		"customer_key" : 9,
+		"date_key" : 252,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 253,
+		"customer_key" : 9,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 254,
+		"customer_key" : 10,
+		"date_key" : 253,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 255,
+		"customer_key" : 10,
+		"date_key" : 254,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 256,
+		"customer_key" : 10,
+		"date_key" : 255,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 257,
+		"customer_key" : 10,
+		"date_key" : 256,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 258,
+		"customer_key" : 10,
+		"date_key" : 257,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 259,
+		"customer_key" : 10,
+		"date_key" : 258,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 260,
+		"customer_key" : 10,
+		"date_key" : 259,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 261,
+		"customer_key" : 10,
+		"date_key" : 260,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 262,
+		"customer_key" : 10,
+		"date_key" : 261,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 263,
+		"customer_key" : 10,
+		"date_key" : 262,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 264,
+		"customer_key" : 10,
+		"date_key" : 263,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 265,
+		"customer_key" : 10,
+		"date_key" : 264,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 266,
+		"customer_key" : 10,
+		"date_key" : 265,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 267,
+		"customer_key" : 10,
+		"date_key" : 266,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 268,
+		"customer_key" : 10,
+		"date_key" : 267,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 269,
+		"customer_key" : 10,
+		"date_key" : 268,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 270,
+		"customer_key" : 10,
+		"date_key" : 269,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 271,
+		"customer_key" : 10,
+		"date_key" : 270,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 8.99
+	},
+	{
+		"fact_rental_key" : 272,
+		"customer_key" : 10,
+		"date_key" : 271,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 273,
+		"customer_key" : 10,
+		"date_key" : 272,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 274,
+		"customer_key" : 10,
+		"date_key" : 273,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 275,
+		"customer_key" : 10,
+		"date_key" : 274,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 276,
+		"customer_key" : 10,
+		"date_key" : 275,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 277,
+		"customer_key" : 10,
+		"date_key" : 276,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 278,
+		"customer_key" : 10,
+		"date_key" : 277,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 279,
+		"customer_key" : 11,
+		"date_key" : 278,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 280,
+		"customer_key" : 11,
+		"date_key" : 279,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 281,
+		"customer_key" : 11,
+		"date_key" : 280,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 7.99
+	},
+	{
+		"fact_rental_key" : 282,
+		"customer_key" : 11,
+		"date_key" : 281,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 283,
+		"customer_key" : 11,
+		"date_key" : 282,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 284,
+		"customer_key" : 11,
+		"date_key" : 283,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 285,
+		"customer_key" : 11,
+		"date_key" : 284,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 286,
+		"customer_key" : 11,
+		"date_key" : 285,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 287,
+		"customer_key" : 11,
+		"date_key" : 286,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 288,
+		"customer_key" : 11,
+		"date_key" : 287,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 289,
+		"customer_key" : 11,
+		"date_key" : 288,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 290,
+		"customer_key" : 11,
+		"date_key" : 289,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 1.99
+	},
+	{
+		"fact_rental_key" : 291,
+		"customer_key" : 11,
+		"date_key" : 290,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 292,
+		"customer_key" : 11,
+		"date_key" : 291,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 9.99
+	},
+	{
+		"fact_rental_key" : 293,
+		"customer_key" : 11,
+		"date_key" : 292,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 294,
+		"customer_key" : 11,
+		"date_key" : 293,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 295,
+		"customer_key" : 11,
+		"date_key" : 294,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 6.99
+	},
+	{
+		"fact_rental_key" : 296,
+		"customer_key" : 11,
+		"date_key" : 295,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 297,
+		"customer_key" : 11,
+		"date_key" : 296,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 298,
+		"customer_key" : 11,
+		"date_key" : 297,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 299,
+		"customer_key" : 11,
+		"date_key" : 298,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 300,
+		"customer_key" : 11,
+		"date_key" : 299,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 301,
+		"customer_key" : 11,
+		"date_key" : 300,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 302,
+		"customer_key" : 11,
+		"date_key" : 145,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 303,
+		"customer_key" : 12,
+		"date_key" : 301,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 304,
+		"customer_key" : 12,
+		"date_key" : 302,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 305,
+		"customer_key" : 12,
+		"date_key" : 303,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 306,
+		"customer_key" : 12,
+		"date_key" : 304,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 307,
+		"customer_key" : 12,
+		"date_key" : 305,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 308,
+		"customer_key" : 12,
+		"date_key" : 306,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 309,
+		"customer_key" : 12,
+		"date_key" : 307,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 310,
+		"customer_key" : 12,
+		"date_key" : 308,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 311,
+		"customer_key" : 12,
+		"date_key" : 309,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 312,
+		"customer_key" : 12,
+		"date_key" : 310,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 313,
+		"customer_key" : 12,
+		"date_key" : 311,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 314,
+		"customer_key" : 12,
+		"date_key" : 312,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 315,
+		"customer_key" : 12,
+		"date_key" : 313,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 3.99
+	},
+	{
+		"fact_rental_key" : 316,
+		"customer_key" : 12,
+		"date_key" : 314,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 317,
+		"customer_key" : 12,
+		"date_key" : 315,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 318,
+		"customer_key" : 12,
+		"date_key" : 316,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 319,
+		"customer_key" : 12,
+		"date_key" : 317,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 320,
+		"customer_key" : 12,
+		"date_key" : 318,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 321,
+		"customer_key" : 12,
+		"date_key" : 319,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 322,
+		"customer_key" : 12,
+		"date_key" : 320,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 323,
+		"customer_key" : 12,
+		"date_key" : 321,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 5.99
+	},
+	{
+		"fact_rental_key" : 324,
+		"customer_key" : 12,
+		"date_key" : 322,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 10.99
+	},
+	{
+		"fact_rental_key" : 325,
+		"customer_key" : 12,
+		"date_key" : 323,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 326,
+		"customer_key" : 12,
+		"date_key" : 324,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 327,
+		"customer_key" : 12,
+		"date_key" : 325,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 328,
+		"customer_key" : 12,
+		"date_key" : 326,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 329,
+		"customer_key" : 12,
+		"date_key" : 327,
+		"staff_id" : 2,
+		"store_key" : 2,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 330,
+		"customer_key" : 12,
+		"date_key" : 328,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 0.99
+	},
+	{
+		"fact_rental_key" : 331,
+		"customer_key" : 13,
+		"date_key" : 329,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 332,
+		"customer_key" : 13,
+		"date_key" : 330,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 4.99
+	},
+	{
+		"fact_rental_key" : 333,
+		"customer_key" : 13,
+		"date_key" : 331,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 2.99
+	},
+	{
+		"fact_rental_key" : 334,
+		"customer_key" : 13,
+		"date_key" : 332,
+		"staff_id" : 1,
+		"store_key" : 1,
+		"amount" : 8.99
+	}
+]
